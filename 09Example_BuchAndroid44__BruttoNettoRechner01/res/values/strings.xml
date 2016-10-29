@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Brutto-Netto-Rechner (FGL)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Formulartexte -->
+    <string name="txt_anweisung">Geben Sie einen Brutto- oder Nettobetrag ein und lassen Sie sich die Umsatzsteuer errechnen:</string>
+    <string name="txt_netto">Netto</string>
+    <string name="txt_brutto">Brutto</string>
+    <string name="txt_nettobetrag">Nettobetrag:</string>
+    <string name="txt_umsatzsteuer">Umsatzsteuer:</string>
+    <string name="txt_bruttobetrag">Bruttobetrag:</string>
+    <string name="txt_berechnen">Berechnen</string>
+
+    <!-- Menüeintrag -->
+    <string name="mnu_ende">Beenden</string>
+    <string name="title_activity_ergebnis_anzeigen">ErgebnisAnzeigenActivity</string>
+
+</resources>
